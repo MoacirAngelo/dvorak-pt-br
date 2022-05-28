@@ -1,0 +1,19 @@
+keycode 64 = Mode_switch
+
+keycode 15 = at
+keycode 24 = semicolon        colon  
+keycode 30 = g G 7
+keycode 31 = c C 8
+keycode 32 = r R 9
+keycode 34 = slash            question 
+keycode 35 = equal plus
+keycode 44 = h H 4
+keycode 45 = t T 5
+keycode 46 = n N 6
+keycode 51 = dead_tilde dead_circumflex backslash
+keycode 58 = m M 1
+keycode 59 = w W 2
+keycode 60 = v V 3
+keycode 65 = space space 0
+keycode 94 = ccedilla Ccedilla 
+keycode 97 = backslash bar
