@@ -17,3 +17,10 @@ keycode 60 = v V 3
 keycode 65 = space space 0
 keycode 94 = ccedilla Ccedilla 
 keycode 97 = backslash bar
+
+!arrow keys
+keycode 26 = period greater Up
+keycode 39 = o O Left
+keycode 40 = e E Down
+keycode 41 = u U Right
+
