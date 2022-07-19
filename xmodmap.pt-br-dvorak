@@ -1,8 +1,43 @@
-keycode 64 = Mode_switch
+keycode 64 = Mode_switch 
+
+keycode 49 = dead_acute
+keycode 10 = exclam       exclamdown       onesuperior            
+keycode 11 = at        masculine       twosuperior            
+keycode 12 = numbersign      ordfeminine     threesuperior            
+keycode 13 = dollar             cent          sterling            
+keycode 14 = percent         EuroSign               yen            
+keycode 15 = asciicircum          hstroke           Hstroke            
+keycode 16 = ampersand              eth               ETH            
+keycode 17 = asterisk            thorn             THORN            
+keycode 18 = parenleft   leftsinglequotemark   leftdoublequotemark   
+keycode 19 = parenright  rightsinglequotemark   rightdoublequotemark  
+
+keycode 20 = braceleft   bracketleft     guillemotleft             U2039            
+keycode 21 = braceright  bracketright    guillemotright             U203a   
+ 
+keycode 27 = p P
+keycode 28 = y Y
+keycode 29 = f F
+keycode 33 = l L
+
+keycode 42 = i I
+keycode 43 = d D
+keycode 47 = s S
+
+
+keycode 53 = q Q
+keycode 54 = j J
+keycode 55 = k K
+keycode 56 = x X
+keycode 57 = b B
+keycode 61 = z Z
+
+
 
 keycode 15 = at
-keycode 24 = semicolon        colon  
-keycode 30 = g G 7
+keycode 24 = semicolon        colon
+keycode 25 = comma less  
+keycode 30 = g G 7  
 keycode 31 = c C 8
 keycode 32 = r R 9
 keycode 34 = slash            question 
@@ -10,7 +45,9 @@ keycode 35 = equal plus
 keycode 44 = h H 4
 keycode 45 = t T 5
 keycode 46 = n N 6
-keycode 51 = dead_tilde dead_circumflex backslash
+keycode 48 = dead_tilde dead_circumflex backslash
+keycode 51 = apostrophe    quotedbl     otilde                Otilde
+keycode 52 = minus    underscore           endash            emdash            
 keycode 58 = m M 1
 keycode 59 = w W 2
 keycode 60 = v V 3
@@ -24,3 +61,6 @@ keycode 39 = o O Left
 keycode 40 = e E Down
 keycode 41 = u U Right
 
+clear Lock
+keycode 0x42 = Escape
+keycode 9 = Caps_Lock
