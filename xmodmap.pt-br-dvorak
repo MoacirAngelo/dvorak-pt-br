@@ -1,6 +1,6 @@
 keycode 64 = Mode_switch 
 
-keycode 49 = dead_acute
+keycode 49 = dead_grave dead_acute dead_tilde
 keycode 10 = exclam       exclamdown       onesuperior            
 keycode 11 = at        masculine       twosuperior            
 keycode 12 = numbersign      ordfeminine     threesuperior            
